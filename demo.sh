@@ -12,3 +12,5 @@ echo "printing current date and time"
 date
 
 #----- This represents finalized code ready to be merged --------
+
+#---- This represents work in progress, thus it remains in the branch for now -----
