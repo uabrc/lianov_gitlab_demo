@@ -1,3 +1,7 @@
+# Gitlab Demo
+
+Thanks to Lara Ianov of UAB. Forked from https://gitlab.rc.uab.edu/lianov/gitlab_demo
+
 #### Sample documentation page
 
 Accepts markdown syntax such as `this`. FYI, click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a markdown cheat sheet if you are unfamiliar. If you truly want your research to be reproducible, a good documentation page is a __must__!
